@@ -19,7 +19,7 @@ from labelme import utils
  
 def main():
     '''
-    usage: python ./json2png.py json_file
+    usage: python json2png.py json_file
     '''
     parser = argparse.ArgumentParser()
     parser.add_argument('json_file')
