@@ -1,5 +1,8 @@
 ﻿# 在tensorflow上使用FCN训练自己的数据
+ 
 参考文档：https://blog.csdn.net/m0_37407756/article/details/83379026　tensorflow实现FCN完成训练自己标注的数据
+
+博客：https://blog.csdn.net/qq_42143583/article/details/85164522
 
 ## 准备数据
  1. 在github上下载fcn的tensorflow版本[实现](https://github.com/shekkizh/FCN.tensorflow)
